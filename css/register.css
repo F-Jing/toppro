@@ -1,0 +1,123 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+
+.header-container {
+  width: 1920px;
+  height: 880px;
+  background: linear-gradient(0deg, #55576B, #34364A);
+  margin: 0 auto;
+  font-size: 0px;
+}
+
+.header-logo {
+  width: 140px;
+  height: 40px;
+  margin: 0 auto;
+  padding-top: 70px;
+}
+
+.header-title {
+  font-size: 24px;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 1);
+  line-height: 24px;
+  margin: 59px auto 0px;
+  text-align: center;
+}
+
+.header-sub-title {
+  font-size: 14px;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: rgba(177, 177, 181, 1);
+  text-align: center;
+  margin: 21px auto 0px;
+}
+
+.header-form {
+  width: 360px;
+  height: 345px;
+  background: rgba(255, 255, 255, 1);
+  border-radius: 4px;
+  margin: 37px auto 0px;
+}
+
+.phone-number,
+.password {
+  width: 310px;
+  height: 40px;
+  background: rgba(252, 252, 252, 1);
+  border: 1px solid rgba(228, 228, 228, 1);
+  margin: 25px 25px 0px;
+  font-size: 14px;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: rgba(169, 169, 169, 1);
+}
+
+.password {
+  margin: 20px 25px 0px;
+}
+
+.check {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin-top: 76px;
+  margin-left: 25px;
+  vertical-align: middle;
+}
+
+.pass {
+  width: 63px;
+  height: 14px;
+  font-size: 14px;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: rgba(63, 70, 75, 1);
+  display: inline-block;
+  margin-top: 76px;
+  margin-left: 171px;
+  line-height: 14px;
+  vertical-align: top;
+}
+
+.check-text {
+  font-size: 14px;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: rgba(153, 153, 153, 1);
+  vertical-align: top;
+  margin-top: 76px;
+  display: inline-block;
+  line-height: 14px;
+}
+
+.sign-in {
+  width: 310px;
+  height: 45px;
+  background: rgba(98, 189, 130, 1);
+  border-radius: 4px;
+  font-size: 18px;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 1);
+  border: none;
+  margin: 25px 25px 0px;
+}
+
+.header-note {
+  font-size: 14px;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: rgba(243, 245, 248, 1);
+  margin: 33px auto 0px;
+  text-align: center;
+}
+.register{
+  color: #62BD82;
+}
